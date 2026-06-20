@@ -10,9 +10,9 @@
 
 ## 👋 About Me
 
-- 🎓 CS Engineering graduate (2026) — KGISL Institute of Technology, Kerala
-- 💼 Interning at **InAmigos Foundation** — Web Development & UI/UX Design
-- 🔭 Currently looking for **Front-End Developer** & **UI/UX Designer** roles
+- 🎓 CS Engineering graduate (2026) — KGISL Institute of Technology, Coimbatore, TN
+- 💼 Completed internship at **InAmigos Foundation** — Web Development & UI/UX Design
+- 🔭 **Actively looking for** Front-End Developer & UI/UX Designer roles — open to opportunities!
 - 🌱 Following a self-built roadmap: **Cloud Computing ➝ Cybersecurity ➝ AI/ML Engineering**
 - 📍 Kerala, India
 
