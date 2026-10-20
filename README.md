@@ -49,7 +49,6 @@
 <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
 <a href="https://en.cppreference.com/w/c/language"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
 
 ### Frontend Development
 
@@ -207,7 +206,7 @@ KGISL Institute of Technology, Coimbatore
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Amal0006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Amal's GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal0006&layout=compact&theme=tokyonight&hide_border=true" alt="Amal's most-used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal0006&layout=compact&theme=tokyonight&hide_border=true&hide=typescript" alt="Amal's most-used languages, excluding TypeScript"/>
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amal0006&theme=tokyonight&hide_border=true" alt="Amal's GitHub contribution streak"/>
 
