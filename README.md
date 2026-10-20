@@ -23,13 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Amal0006"
-    alt="Profile views"
-  />
-</p>
-
 </div>
 
 ---
