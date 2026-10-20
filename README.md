@@ -23,8 +23,11 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Amal0006&label=PROFILE%20VIEWS&color=2C9AB7&style=for-the-badge" alt="GitHub profile views"/>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Amal0006"
+    alt="Profile views"
+  />
 </p>
 
 </div>
