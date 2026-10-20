@@ -1,19 +1,15 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Amal%20A%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Application%20Developer%20%7C%20Generative%20AI%20%26%20LLM%20Integration%20%7C%20Full-Stack%20Engineer&descSize=15&descAlignY=55" width="100%" alt="Amal A S — AI Application Developer, Generative AI and LLM Integration, Full-Stack Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Amal%20A%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Application%20Developer%20%7C%20Generative%20AI%20%26%20LLM%20Integration%20%7C%20Full-Stack%20Engineer&descSize=15&descAlignY=55" width="100%" alt="Amal A S — AI Application Developer" />
 
-<a href="https://amal0006.github.io">
-<img src="https://img.shields.io/badge/PORTFOLIO-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/Amal0006">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/amal-a-s-7a6931249/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:amalas2875@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2C9AB7&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Integrating+LLMs+into+real-world+products;Developing+full-stack+web+experiences;Turning+ideas+into+working+software" alt="Typing animation" />
+
+<p>
+<a href="https://amal0006.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Amal0006" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/amal-a-s-7a6931249/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:amalas2875@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
@@ -21,14 +17,17 @@
 
 ## 👨‍💻 About Me
 
-I'm **Amal A S**, a Computer Science and Engineering graduate from KGISL Institute of Technology, passionate about building practical software with AI, web technologies, and thoughtful UI/UX design.
+I'm **Amal A S**, a Computer Science and Engineering graduate from KGISL Institute of Technology, focused on **AI application development, Generative AI integration, and full-stack engineering**.
 
-- 🤖 Interested in Generative AI and AI application development.
-- 💻 Building full-stack applications and interactive web experiences.
-- 🧠 Exploring prompt engineering, resume parsing, semantic matching, and RAG-style chat.
-- 🎨 Interested in UI/UX design, accessibility, and responsive web design.
-- 🌱 Continuously learning through hands-on projects.
-- 🎯 Open to opportunities in AI Application Development, Full-Stack Development, and Front-End Engineering.
+I enjoy building practical software that combines intelligent AI capabilities with functional backend systems and clean user interfaces.
+
+- 🤖 Building applications powered by Generative AI and LLM APIs.
+- 🧠 Exploring prompt engineering, resume parsing, candidate matching, and RAG-style conversational systems.
+- 💻 Developing web applications with JavaScript, React, Node.js, Express, and databases.
+- 🔌 Integrating APIs and building RESTful backend services.
+- 🎨 Interested in UI/UX design, accessibility, and responsive web experiences.
+- 🌱 Continuously improving my skills through practical projects.
+- 🎯 Interested in opportunities in AI Application Development, Generative AI, and Full-Stack Engineering.
 
 ---
 
@@ -36,13 +35,14 @@ I'm **Amal A S**, a Computer Science and Engineering graduate from KGISL Institu
 
 ### 1. RecruitCopilot — AI-Powered Recruitment Assistant
 
-An AI-powered recruitment application that helps recruiters analyze resumes, evaluate candidate-job matches, and prepare interview questions.
+An AI-powered recruitment application designed to help recruiters analyze resumes, evaluate candidate-job matches, and prepare interview questions.
 
 <p>
 <a href="https://recruit-copilot.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN%20APP-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="RecruitCopilot live demo"/></a>
 <a href="https://github.com/Amal0006/recruit-copilot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="RecruitCopilot source code"/></a>
 </p>
 
+**Key features**
 - 📄 Extracts candidate information from PDF resumes.
 - 🎯 Scores candidate-job matches to support initial screening.
 - 💬 Provides a conversational, RAG-style recruitment copilot using candidate context.
@@ -56,10 +56,11 @@ An AI-powered recruitment application that helps recruiters analyze resumes, eva
 A React application that uses the GitHub REST API to explore GitHub profile information.
 
 <p>
-<a href="https://amal0006.github.io/github-explorer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN%20APP-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GitHub Explorer demo"/></a>
-<a href="https://github.com/Amal0006/github-explorer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Explorer source"/></a>
+<a href="https://amal0006.github.io/github-explorer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN%20APP-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GitHub Explorer live demo"/></a>
+<a href="https://github.com/Amal0006/github-explorer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Explorer source code"/></a>
 </p>
 
+**Highlights**
 - 🔍 Retrieves GitHub data through the GitHub REST API.
 - ⚛️ Built with React and Vite.
 - ♿ Improved accessibility, with a reported Lighthouse accessibility score increase from 97 to 100.
@@ -75,6 +76,7 @@ A task management application with separate frontend and backend repositories.
 <a href="https://github.com/Amal0006/task-tracker-server" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BACKEND-NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Task Tracker backend"/></a>
 </p>
 
+**Highlights**
 - ✅ Task management through a dedicated web interface.
 - 🔌 Backend REST API integration.
 - 🗄️ MongoDB data storage.
@@ -88,7 +90,7 @@ A task management application with separate frontend and backend repositories.
 A web application project focused on campus navigation and a modern user interface.
 
 <p>
-<a href="https://github.com/Amal0006/navigate-smart-campus" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Campus Navigator source"/></a>
+<a href="https://github.com/Amal0006/navigate-smart-campus" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Campus Navigator source code"/></a>
 </p>
 
 **Tech stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui
@@ -98,9 +100,10 @@ A web application project focused on campus navigation and a modern user interfa
 Website development and UI/UX work completed during a remote internship at InAmigos Foundation.
 
 <p>
-<a href="https://github.com/Amal0006/inamigos-awareness-page" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="InAmigos source"/></a>
+<a href="https://github.com/Amal0006/inamigos-awareness-page" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="InAmigos project source code"/></a>
 </p>
 
+**Highlights**
 - 🌐 Developed five awareness-focused website pages using HTML and CSS.
 - 🔎 Identified more than ten interface issues during a UI/UX audit.
 - 🎨 Created five Figma prototypes for NGO-related user flows and content sections.
