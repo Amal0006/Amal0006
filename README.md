@@ -2,23 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20there,%20I'm%20Amal%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Application%20Developer%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55" width="100%" alt="Profile header" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=2C9AB7&center=true&vCenter=true&width=650&lines=Building+practical+AI-powered+applications;Developing+full-stack+web+experiences;Exploring+Generative+AI+and+RAG;Turning+ideas+into+working+products" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=2C9AB7&center=true&vCenter=true&width=650&lines=Building+practical+AI-powered+applications;Developing+full-stack+web+experiences;Exploring+Generative+AI+and+RAG;Turning+ideas+into+working+products" alt="Typing animation" />
 
 <p>
-  <a href="https://amal0006.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Amal0006" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/amal-a-s-7a6931249/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:amalas2875@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<a href="https://amal0006.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Amal0006" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/amal-a-s-7a6931249/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:amalas2875@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
@@ -29,14 +19,12 @@
 
 I'm **Amal A S**, a Computer Science and Engineering graduate from KGISL Institute of Technology, passionate about building practical software with AI, web technologies, and thoughtful UI/UX design.
 
-I enjoy taking ideas from concept to implementation — from integrating AI APIs and developing REST APIs to designing responsive interfaces and deploying web applications.
-
-- 🤖 Interested in Generative AI and AI application development
-- 💻 Building full-stack applications and interactive web experiences
-- 🧠 Exploring prompt engineering, resume parsing, semantic matching, and RAG-style chat
-- 🎨 Interested in UI/UX design, accessibility, and responsive web design
-- 🌱 Continuously learning through hands-on projects
-- 🎯 Open to opportunities in AI Application Development, Full-Stack Development, and Front-End Engineering
+- 🤖 Interested in Generative AI and AI application development.
+- 💻 Building full-stack applications and interactive web experiences.
+- 🧠 Exploring prompt engineering, resume parsing, semantic matching, and RAG-style chat.
+- 🎨 Interested in UI/UX design, accessibility, and responsive web design.
+- 🌱 Continuously learning through hands-on projects.
+- 🎯 Open to opportunities in AI Application Development, Full-Stack Development, and Front-End Engineering.
 
 ---
 
@@ -47,15 +35,10 @@ I enjoy taking ideas from concept to implementation — from integrating AI APIs
 An AI-powered recruitment application that helps recruiters analyze resumes, evaluate candidate-job matches, and prepare interview questions.
 
 <p>
-  <a href="https://recruit-copilot.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN%20APP-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="RecruitCopilot live demo" />
-  </a>
-  <a href="https://github.com/Amal0006/recruit-copilot" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="RecruitCopilot source code" />
-  </a>
+<a href="https://recruit-copilot.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN%20APP-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="RecruitCopilot live demo"/></a>
+<a href="https://github.com/Amal0006/recruit-copilot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="RecruitCopilot source code"/></a>
 </p>
 
-**Key features**
 - 📄 Extracts candidate information from PDF resumes.
 - 🎯 Scores candidate-job matches to support initial screening.
 - 💬 Provides a conversational, RAG-style recruitment copilot using candidate context.
@@ -69,15 +52,10 @@ An AI-powered recruitment application that helps recruiters analyze resumes, eva
 A React application that uses the GitHub REST API to explore GitHub profile information.
 
 <p>
-  <a href="https://amal0006.github.io/github-explorer" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN%20APP-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GitHub Explorer live demo" />
-  </a>
-  <a href="https://github.com/Amal0006/github-explorer" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Explorer source code" />
-  </a>
+<a href="https://amal0006.github.io/github-explorer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN%20APP-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GitHub Explorer demo"/></a>
+<a href="https://github.com/Amal0006/github-explorer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Explorer source"/></a>
 </p>
 
-**Highlights**
 - 🔍 Retrieves GitHub data through the GitHub REST API.
 - ⚛️ Built with React and Vite.
 - ♿ Improved accessibility, with a reported Lighthouse accessibility score increase from 97 to 100.
@@ -89,15 +67,10 @@ A React application that uses the GitHub REST API to explore GitHub profile info
 A task management application with separate frontend and backend repositories.
 
 <p>
-  <a href="https://github.com/Amal0006/task-tracker-client" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/FRONTEND-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Task Tracker frontend" />
-  </a>
-  <a href="https://github.com/Amal0006/task-tracker-server" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/BACKEND-NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Task Tracker backend" />
-  </a>
+<a href="https://github.com/Amal0006/task-tracker-client" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/FRONTEND-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Task Tracker frontend"/></a>
+<a href="https://github.com/Amal0006/task-tracker-server" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BACKEND-NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Task Tracker backend"/></a>
 </p>
 
-**Highlights**
 - ✅ Task management through a dedicated web interface.
 - 🔌 Backend REST API integration.
 - 🗄️ MongoDB data storage.
@@ -111,9 +84,7 @@ A task management application with separate frontend and backend repositories.
 A web application project focused on campus navigation and a modern user interface.
 
 <p>
-  <a href="https://github.com/Amal0006/navigate-smart-campus" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Campus Navigator source code" />
-  </a>
+<a href="https://github.com/Amal0006/navigate-smart-campus" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Campus Navigator source"/></a>
 </p>
 
 **Tech stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui
@@ -123,12 +94,9 @@ A web application project focused on campus navigation and a modern user interfa
 Website development and UI/UX work completed during a remote internship at InAmigos Foundation.
 
 <p>
-  <a href="https://github.com/Amal0006/inamigos-awareness-page" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="InAmigos project source code" />
-  </a>
+<a href="https://github.com/Amal0006/inamigos-awareness-page" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="InAmigos source"/></a>
 </p>
 
-**Highlights**
 - 🌐 Developed five awareness-focused website pages using HTML and CSS.
 - 🔎 Identified more than ten interface issues during a UI/UX audit.
 - 🎨 Created five Figma prototypes for NGO-related user flows and content sections.
@@ -140,9 +108,7 @@ Website development and UI/UX work completed during a remote internship at InAmi
 A repository documenting my Linux learning journey and practical notes.
 
 <p>
-  <a href="https://github.com/Amal0006/linux-journey" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Linux learning repository" />
-  </a>
+<a href="https://github.com/Amal0006/linux-journey" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Linux learning repository"/></a>
 </p>
 
 **Focus:** Linux fundamentals, command-line learning, and technical practice.
@@ -154,36 +120,52 @@ A repository documenting my Linux learning journey and practical notes.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,ts" alt="Python, Java, C, JavaScript, HTML, CSS, TypeScript" />
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="50"/></a>
+<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="50"/></a>
+<a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="50"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="50"/></a>
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite, Tailwind CSS" />
+<a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="50"/></a>
+<a href="https://vite.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" height="50"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="50"/></a>
 </p>
 
 ### Backend and Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, MySQL" />
+<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="50"/></a>
+<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" height="50"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="50"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="50"/></a>
 </p>
 
 ### AI Application Development
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-2C5364?style=for-the-badge" alt="Prompt engineering" />
-  <img src="https://img.shields.io/badge/RAG--Style%20Chat-0F766E?style=for-the-badge" alt="RAG-style chat" />
-  <img src="https://img.shields.io/badge/Resume%20Parsing-475569?style=for-the-badge" alt="Resume parsing" />
-  <img src="https://img.shields.io/badge/Semantic%20Matching-7C3AED?style=for-the-badge" alt="Semantic matching" />
+<a href="https://ai.google.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GOOGLE%20GEMINI%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API" title="Google Gemini API"/></a>
+<a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-2C5364?style=for-the-badge" alt="Prompt engineering" title="Prompt engineering"/></a>
+<a href="https://python.langchain.com/docs/concepts/rag/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/RAG--STYLE%20CHAT-0F766E?style=for-the-badge" alt="RAG-style chat" title="RAG-style chat"/></a>
+<a href="https://pypi.org/project/pypdf/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/RESUME%20PARSING-475569?style=for-the-badge" alt="Resume parsing" title="Resume parsing"/></a>
+<a href="https://huggingface.co/docs/transformers/tasks/sentence_similarity" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SEMANTIC%20MATCHING-7C3AED?style=for-the-badge" alt="Semantic matching" title="Semantic matching"/></a>
 </p>
 
 ### Tools and Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,vercel" alt="Git, GitHub, VS Code, Figma, Linux, Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" alt="Render" />
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="50"/></a>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="50"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" height="50"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" height="50"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" height="50"/></a>
+<a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" height="50"/></a>
+<a href="https://render.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" title="Render" height="35"/></a>
 </p>
 
 ---
@@ -224,12 +206,12 @@ KGISL Institute of Technology, Coimbatore
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amal0006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal0006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amal0006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal0006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Amal0006&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Amal0006&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -239,23 +221,15 @@ KGISL Institute of Technology, Coimbatore
 
 <div align="center">
 
-<a href="https://amal0006.github.io" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
-</a>
-<a href="https://github.com/Amal0006" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.linkedin.com/in/amal-a-s-7a6931249/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-</a>
-<a href="mailto:amalas2875@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Amal" />
-</a>
+<a href="https://amal0006.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Amal0006" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/amal-a-s-7a6931249/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:amalas2875@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
 **Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" alt="Footer decoration" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" alt="Footer decoration"/>
 
 </div>
