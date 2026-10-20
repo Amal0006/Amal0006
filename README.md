@@ -1,15 +1,19 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20there,%20I'm%20Amal%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Application%20Developer%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55" width="100%" alt="Profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Amal%20A%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Application%20Developer%20%7C%20Generative%20AI%20%26%20LLM%20Integration%20%7C%20Full-Stack%20Engineer&descSize=15&descAlignY=55" width="100%" alt="Amal A S — AI Application Developer, Generative AI and LLM Integration, Full-Stack Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=2C9AB7&center=true&vCenter=true&width=650&lines=Building+practical+AI-powered+applications;Developing+full-stack+web+experiences;Exploring+Generative+AI+and+RAG;Turning+ideas+into+working+products" alt="Typing animation" />
-
-<p>
-<a href="https://amal0006.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/Amal0006" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/amal-a-s-7a6931249/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:amalas2875@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<a href="https://amal0006.github.io">
+<img src="https://img.shields.io/badge/PORTFOLIO-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/Amal0006">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/amal-a-s-7a6931249/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:amalas2875@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
