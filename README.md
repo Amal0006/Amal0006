@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Amal%20A%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Application%20Developer%20%7C%20Full-Stack%20Engineer&descSize=16&descAlignY=55" width="100%" alt="Amal A S animated profile header" />
 
@@ -83,12 +84,10 @@
 
 ### 1. 🤖 RecruitCopilot — AI-Powered Recruitment Assistant
 
-An AI-assisted recruitment application that helps analyze resumes and compare candidate profiles against job requirements.
+An AI-assisted recruitment app that analyzes resumes and evaluates candidates against job requirements.
 
-- 📄 Extracts text from PDF resumes.
-- 🎯 Evaluates candidate-to-job matching using application-defined scoring.
-- 💬 Provides context-aware chat using supplied resume and job information.
-- 🧠 Generates AI-assisted interview questions.
+- 📄 Extracts text from PDF resumes and supports candidate matching.
+- 💬 Offers context-aware chat and AI-generated interview questions.
 - 🔌 Integrates the Gemini API with a Node.js backend.
 
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB Atlas, Gemini API
@@ -100,12 +99,10 @@ An AI-assisted recruitment application that helps analyze resumes and compare ca
 
 ### 2. 🔎 GitHub Explorer
 
-A web application for exploring GitHub profiles and repositories through the GitHub REST API.
+A React application for exploring GitHub users and repositories through the GitHub REST API.
 
-- 🔍 Search and explore GitHub users.
-- 📂 Retrieve public profile and repository information.
-- 📱 Responsive interface built with React.
-- ♿ Focus on accessibility and usability improvements.
+- 🔍 Search users and view public profile and repository details.
+- 📱 Responsive interface with a focus on accessibility and usability.
 
 **Tech Stack:** React, Vite, JavaScript, GitHub REST API
 
@@ -116,12 +113,11 @@ A web application for exploring GitHub profiles and repositories through the Git
 
 ### 3. ✅ Task Tracker
 
-A full-stack task management application designed to organize and track everyday tasks through a distinctive chalkboard-inspired interface.
+A full-stack task management app featuring a distinctive chalkboard-inspired interface.
 
-- 📝 Create and manage tasks.
-- 🔄 Connect the frontend to a backend REST API.
-- 🗄️ Store application data using MongoDB.
-- 🎨 Use a custom visual design for a more engaging experience.
+- 📝 Create and manage everyday tasks.
+- 🔄 Connects the frontend to a backend REST API.
+- 🗄️ Uses MongoDB to store application data.
 
 **Tech Stack:** React, Node.js, Express.js, MongoDB
 
@@ -132,7 +128,7 @@ A full-stack task management application designed to organize and track everyday
 
 ### 4. 🏫 Smart Campus Navigator
 
-A campus navigation project designed to help users explore campus locations through a modern web interface.
+A campus navigation project that helps users explore campus locations through a modern web interface.
 
 **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui
 
@@ -140,28 +136,19 @@ A campus navigation project designed to help users explore campus locations thro
   <a href="https://github.com/Amal0006/navigate-smart-campus"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
 </p>
 
-### 5. 🌐 InAmigos Awareness Pages
+### 5. 🎓 CampusDesk — Student Management System
 
-A web development project focused on creating awareness-oriented web pages with attention to usability and interface design.
+A full-stack student management application for organizing student records through a clean, modern interface.
 
-- 🖥️ Developed multiple awareness pages.
-- 🎨 Applied responsive UI principles.
-- 🔎 Worked on improving user experience and identifying interface issues.
+- 🧑‍🎓 Add, view, update, and delete student records.
+- 🗄️ Uses MongoDB for persistent data storage.
+- ✅ Includes data validation and backend API integration.
 
-**Tech Stack:** HTML, CSS, JavaScript, Figma
-
-<p>
-  <a href="https://github.com/Amal0006/inamigos-awareness-page"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
-</p>
-
-### 6. 🐧 Linux Learning Journey
-
-A learning repository documenting Linux fundamentals, commands, and practical exercises.
-
-**Focus Areas:** Linux commands, terminal usage, and foundational system concepts.
+**Tech Stack:** React, Vite, Node.js, Express.js, MongoDB, Mongoose
 
 <p>
-  <a href="https://github.com/Amal0006/linux-journey"><img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository"/></a>
+  <a href="https://campusdesk-yp4d.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-2C5364?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/></a>
+  <a href="https://github.com/Amal0006/student-management-system"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
 </p>
 
 ---
